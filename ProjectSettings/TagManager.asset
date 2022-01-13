@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ladder
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Platform
+  - Player
+  - 
+  - 
+  - Confinder
+  - Bullet
+  - AI
+  - Enemy
+  - Ladder
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BG
+    uniqueID: 219008635
+    locked: 0
+  - name: PlatformBG
+    uniqueID: 1872086571
+    locked: 0
+  - name: PlayerPlatform
+    uniqueID: 3474180301
+    locked: 0
+  - name: Latter
+    uniqueID: 3439659647
+    locked: 0
+  - name: BGProp
+    uniqueID: 3028462039
+    locked: 0
+  - name: Bullet
+    uniqueID: 501057939
+    locked: 0
+  - name: Player
+    uniqueID: 2211312865
+    locked: 0
+  - name: AI
+    uniqueID: 2586222477
+    locked: 0
+  - name: Boss
+    uniqueID: 1283371711
+    locked: 0
